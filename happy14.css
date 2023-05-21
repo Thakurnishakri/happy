@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 48px;
+    color: #FF69B4;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  .btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: rgb(235, 166, 209);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 24px;
+    transition: all 0.2s ease-in-out;}
+  img {
+    width: 400px;
+    height: 400px;
+    margin-top: 20px;
+    border-radius: 50%;
+    border: 10px solid #FF69B4;
+  }.btn:hover {
+    background-color: #fff;
+    color: #f00;
+    border: 2px solid #f00;}
